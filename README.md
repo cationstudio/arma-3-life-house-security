@@ -1,5 +1,5 @@
-# arma-3-life-house-alarm
-This is a house alarm script for ArmA 3 RPG Life.
+# arma-3-life-house-security
+This is a house security script for ArmA 3 RPG Life.
 
 ## Instructions:
 https://cationstudio.com/en/instructions/installation-house-security-system/
